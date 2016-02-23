@@ -6,8 +6,14 @@
 ## Getting started
 
 ```
+$ npm install
+$ gulp && gulp watch
+```
+
+## Development
+
+```
 $ npm init
 $ npm install gulp --save-dev
 $ npm install laravel-elixir --save-dev
-$ gulp watch
 ```
