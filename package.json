@@ -1,0 +1,23 @@
+{
+  "name": "sass-bem-example",
+  "version": "1.0.0",
+  "description": "Sass+BEM example",
+  "main": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yhbyun/sass-bem-example.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yhbyun/sass-bem-example.git"
+  },
+  "homepage": "https://github.com/yhbyun/sass-bem-example.git",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "laravel-elixir": "^5.0.0"
+  }
+}
